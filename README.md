@@ -5,7 +5,7 @@
 SALVAGE brings back photos, videos and documents from formatted, corrupted or failing USB drives, SD cards and external hard drives. It reads the drive without changing it and rebuilds your files with their original names and folders.
 
 🌐 **Website:** [maxroorr.github.io/nexora-salvage](https://maxroorr.github.io/nexora-salvage/)
-⬇️ **Download:** [Latest Release](https://github.com/maxroorr/nexora-salvage/releases/latest)
+⬇️ **Download:** [Latest Release](https://github.com/maxroorr/nexora-salvage/releases/latest) · [Gumroad](https://nexorallc.gumroad.com/l/salvage)
 
 ## Features
 
