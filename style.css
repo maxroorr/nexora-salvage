@@ -156,3 +156,8 @@ footer .made a { color: var(--lime); font-weight: 600; }
   .reveal { opacity: 1; transform: none; transition: none; }
   .btn, .feat { transition: none; }
 }
+
+.dl-btns{display:flex;flex-wrap:wrap;gap:12px}
+.also{text-align:center;margin-top:28px;color:var(--muted,#9AA1AE);font-size:15px}
+.also a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+.also a:hover{color:#C6F432}
