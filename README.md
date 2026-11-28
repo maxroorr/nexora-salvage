@@ -78,7 +78,7 @@ Windows 10 or Windows 11.
 <div align="center">
 
 <sub>SALVAGE is published by</sub><br>
-<a href="https://www.linkedin.com/company/nexorallc-official"><b>NEXORA LLC</b></a>
+<a href="https://www.linkedin.com/company/nexorallc-official"><b>NEXORA LLC</b></a> · <a href="https://www.nexorallc.co">www.nexorallc.co</a>
 <br><sub>© 2026 NEXORA LLC. All rights reserved.</sub>
 
 </div>
