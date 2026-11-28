@@ -8,6 +8,8 @@
 
 ### Free Data Recovery For Windows
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=900&color=C6FF00&center=true&vCenter=true&width=720&lines=Formatted+Drive?+Get+It+Back.;Quick+Scan+Is+Free,+No+Data+Limit;Deep+Scan+Finds+30%2B+File+Types;Read-Only.+Your+Drive+Stays+Safe." alt="Formatted Drive? Get It Back. · Quick Scan Is Free, No Data Limit · Deep Scan Finds 30%2B File Types · Read-Only. Your Drive Stays Safe."></p>
+
 **Photos, videos and documents back from formatted, corrupted or failing drives — with their original names and folders.**
 
 <a href="https://github.com/maxroorr/nexora-salvage/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-C6FF00?style=for-the-badge&logo=windows&logoColor=000000&labelColor=0B0D0A" alt="Download the latest release"></a>
@@ -71,7 +73,7 @@ Windows 10 or Windows 11.
 
 <br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0A,100:C6FF00&height=140&section=footer&text=SALVAGE&fontSize=26&fontColor=0B0D0A&fontAlignY=72" width="100%" alt="">
 
 <div align="center">
 
